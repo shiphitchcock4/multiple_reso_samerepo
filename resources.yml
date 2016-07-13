@@ -1,5 +1,5 @@
 resources:
-  - name: image-mulreso1
+  - name: image-mulreso56
     type: image
     integration: ship4-docker
     source:
